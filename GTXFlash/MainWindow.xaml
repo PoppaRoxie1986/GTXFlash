@@ -1,0 +1,61 @@
+﻿<Window
+    x:Class="GTXFlash.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:GTXFlash"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="clr-namespace:GTXFlash.ViewModel"
+    Title="GTXFlash"
+    Width="525"
+    Height="350"
+    mc:Ignorable="d">
+    <Window.DataContext>
+        <vm:GTXFlashViewModel x:Name="vm" />
+    </Window.DataContext>
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                <GradientStop Offset="0" Color="Black" />
+                <GradientStop Offset="1" Color="White" />
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Button
+            x:Name="rootButton"
+            Width="86"
+            Height="48"
+            Margin="191,130,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="rootUnit_Click"
+            Content="Root unit" />
+        <TextBox
+            x:Name="textBox"
+            Width="136"
+            Height="35"
+            Margin="42,48,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="{Binding IPAddress}"
+            TextWrapping="Wrap" />
+        <Button
+            x:Name="connectButton"
+            Width="65"
+            Height="35"
+            Margin="212,48,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Connect" />
+        <Button
+            x:Name="flashButton"
+            Width="86"
+            Height="35"
+            Margin="191,203,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Flash GTX" />
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="18" Margin="10,279,0,0" TextWrapping="Wrap" Text="{Binding Status,UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="368"/>
+
+    </Grid>
+</Window>
