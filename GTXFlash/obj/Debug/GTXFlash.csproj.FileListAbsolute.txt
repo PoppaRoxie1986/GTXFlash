@@ -23,3 +23,28 @@ c:\users\boothj1\documents\visual studio 2015\Projects\GTXFlash\GTXFlash\bin\Deb
 c:\users\boothj1\documents\visual studio 2015\Projects\GTXFlash\GTXFlash\bin\Debug\su\su
 c:\users\boothj1\documents\visual studio 2015\Projects\GTXFlash\GTXFlash\bin\Debug\su\Superuser.apk
 c:\users\boothj1\documents\visual studio 2015\Projects\GTXFlash\GTXFlash\obj\Debug\GTXFlash.csprojResolveAssemblyReference.cache
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\GTXFlash.exe.config
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash.exe
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash.pdb
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\adb\adb.exe
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\adb\AdbWinApi.dll
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\adb\AdbWinUsbApi.dll
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\su\install-recovery.sh
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\su\install.sh
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\su\jy-setup.sh
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\su\su
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\su\Superuser.apk
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\GTXFlash.exe
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\GTXFlash.pdb
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\bin\Debug\SharpAdbClient.dll
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash.csprojResolveAssemblyReference.cache
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\MainWindow.g.cs
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\App.g.cs
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash_Content.g.cs
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash_MarkupCompile.cache
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash_MarkupCompile.lref
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\MainWindow.baml
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash.g.resources
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash.Properties.Resources.resources
+C:\Users\boothj1\Documents\GitHub\GTXFlash\GTXFlash\obj\Debug\GTXFlash.csproj.GenerateResource.Cache
